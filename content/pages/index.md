@@ -9,7 +9,7 @@ sections:
       crecimiento personal y profesional. Acompañame y descubre más sobre mi y
       mis  trabajos.
     actions:
-      - label: Subscribe to Podcast
+      - label: Conoce más
         url: /thank-you
         style: primary
     image: /images/FOTO.jpg
