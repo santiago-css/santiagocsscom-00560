@@ -16,7 +16,7 @@ sections:
     media_position: left
     media_width: fifty
     align: left
-    padding_top: large
+    padding_top: small
     padding_bottom: large
     background_color: primary
     background_image: images/hero-background.jpg
