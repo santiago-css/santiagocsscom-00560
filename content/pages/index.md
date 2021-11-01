@@ -144,11 +144,12 @@ sections:
     background_color: none
     title: 'Herramientas y conocimientos '
   - type: form_section
-    content: >-
-      ## Ask A Question
+    content: >
+      ## ¿Tienes preguntas?
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+
+      Si tienes alguna duda o inquietud déjamelo saber e intentare ayudarte y
+      responder lo mas pronto posible. 
     content_align: left
     form_position: right
     form_width: fifty
