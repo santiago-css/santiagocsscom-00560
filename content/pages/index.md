@@ -142,7 +142,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
     background_color: none
-    title: Herramientas y Conoci
+    title: 'Herramientas '
   - type: form_section
     content: >-
       ## Ask A Question
