@@ -38,7 +38,7 @@
         "logo": "/images/Logo (2).png"
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "/images/Logo (2).png",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [
