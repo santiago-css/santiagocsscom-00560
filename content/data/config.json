@@ -61,7 +61,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contactame",
+                "label": "Acerca de mi",
                 "url": "/about",
                 "style": "link"
             },
