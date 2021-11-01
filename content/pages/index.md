@@ -161,7 +161,7 @@ sections:
       - input_type: text
         name: Correo
         label: Name
-        default_value: Cor
+        default_value: Corro
         is_required: true
       - input_type: email
         name: email
