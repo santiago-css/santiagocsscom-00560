@@ -12,7 +12,7 @@ sections:
         url: /thank-you
         style: primary
     image: images/hero.png
-    image_alt: Santiao
+    image_alt: Santiago Agudelo
     media_position: left
     media_width: fifty
     align: left
