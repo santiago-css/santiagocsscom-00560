@@ -7,7 +7,7 @@ sections:
     content: >
       Me apasionan la tecnologías y educarme a diario para seguir con mi
       crecimiento personal y profesional. Acompañame y descubre más sobre mi y
-      mis trabajos  
+      mis  trabajos.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
