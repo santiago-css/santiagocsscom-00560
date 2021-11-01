@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Santiago Agudelo
-    subtitle: Optional hero section subtitle
+    subtitle: Frond
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
