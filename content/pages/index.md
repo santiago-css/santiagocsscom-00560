@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Santiago Agudelo
-    subtitle: Frond
+    subtitle: Frondent Devoloper
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
