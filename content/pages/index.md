@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: images/hero.png
+    image: /images/FOTO.jpg
     image_alt: Santiago Agudelo
     media_position: left
     media_width: fifty
