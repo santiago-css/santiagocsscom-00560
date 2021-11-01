@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: Santiago Agudelo
     subtitle: Frondent Devoloper
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: >
+      Me apasionan la tecnologías y educarme a diario para seguir con mi
+      crecimiento personal y profesional. Acompañame y descubre más sobre mi y
+      mis trabajos  
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
